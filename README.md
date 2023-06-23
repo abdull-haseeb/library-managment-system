@@ -13,3 +13,5 @@ This project is a simple library management system implemented in Java.
 To compile and run the project, follow these steps:
 
 1. Compile the Java source files:
+
+2. Run the program:
